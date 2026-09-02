@@ -113,18 +113,34 @@ I'm a **Full-Stack Developer** passionate about building practical software and 
 </table>
 
 ---
-
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=enma404&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0a0e17&title_color=60a5fa&icon_color=60a5fa" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=enma404&theme=github-dark-blue&hide_border=true&background=0a0e17&ring=60a5fa&fire=60a5fa&currStreakLabel=60a5fa" height="170" />
+
+<img
+  src="https://github-readme-stats.vercel.app/api?username=enma404&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0a0e17&title_color=60a5fa&icon_color=60a5fa"
+  height="170"
+  alt="GitHub Stats"
+/>
+
+<img
+  src="https://streak-stats.demolab.com/?user=enma404&theme=github-dark-blue&hide_border=true&background=0a0e17&ring=60a5fa&fire=60a5fa&currStreakLabel=60a5fa"
+  height="170"
+  alt="GitHub Streak"
+/>
+
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enma404&layout=compact&theme=github_dark&hide_border=true&langs_count=8&bg_color=0a0e17&title_color=60a5fa" height="170" />
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=enma404&layout=compact&theme=github_dark&hide_border=true&langs_count=8&bg_color=0a0e17&title_color=60a5fa"
+  height="170"
+  alt="Top Languages"
+/>
+
 </div>
 
 ---
@@ -132,17 +148,59 @@ I'm a **Full-Stack Developer** passionate about building practical software and 
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=enma404&limit=5&theme=dark&combine_all_yearly_contributions=true&bg_color=0a0e17&title_color=60a5fa&icon_color=60a5fa" />
+
+<img
+  src="https://github-contributor-stats.vercel.app/api?username=enma404&limit=5&theme=dark&combine_all_yearly_contributions=true"
+  alt="Contribution Activity"
+/>
+
 </div>
 
 ---
 
 ## 🧠 Currently Learning
 
-```text
-▸ Advanced Backend Architecture & Microservices
-▸ API Design & Security Best Practices
-▸ Database Optimization & Query Tuning
-▸ Modern React Ecosystem (Next.js, Server Components)
-▸ Cybersecurity & Ethical Testing Methodologies
-▸ System Design & Scalability Patterns
+<div align="center">
+
+<table>
+<tr>
+<td>
+
+🔹 **Advanced Backend Architecture & Microservices**
+
+</td>
+<td>
+
+🔹 **API Design & Security Best Practices**
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+🔹 **Database Optimization & Query Tuning**
+
+</td>
+<td>
+
+🔹 **Modern React & Next.js**
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+🔹 **Cybersecurity & Ethical Testing**
+
+</td>
+<td>
+
+🔹 **System Design & Scalability**
+
+</td>
+</tr>
+</table>
+
+</div>
