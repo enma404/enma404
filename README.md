@@ -142,20 +142,6 @@ I'm a **Full-Stack Developer** passionate about building practical software and 
 />
 
 </div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img
-  src="https://github-contributor-stats.vercel.app/api?username=enma404&limit=5&theme=dark&combine_all_yearly_contributions=true"
-  alt="Contribution Activity"
-/>
-
-</div>
-
 ---
 
 ## 🧠 Currently Learning
